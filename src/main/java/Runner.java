@@ -9,5 +9,8 @@ public class Runner {
         System.out.println("hi");
         // verison 6
         System.out.println("hihhi");
+        // versşon 7
+
+        System.out.println("merhabalar");
     }
 }
