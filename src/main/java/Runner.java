@@ -7,5 +7,7 @@ public class Runner {
         // version 5
 
         System.out.println("hi");
+        // verison 6
+        System.out.println("hihhi");
     }
 }
